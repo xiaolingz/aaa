@@ -6,6 +6,4 @@ create a new branch is quick & simple.
 =======
 ahahahahhahaha
 create a new branch is quick AND simple.
->>>>>>> featurel
-create a new branch is quick and simple.
-
+hahahaha
